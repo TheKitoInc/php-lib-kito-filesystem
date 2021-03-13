@@ -14,7 +14,7 @@
 
 namespace Kito\Storage\FileSystem;
 
-use Kito\Type\Path;
+use Kito\Path\Path;
 
 /**
  * @author TheKito < blankitoracing@gmail.com >
